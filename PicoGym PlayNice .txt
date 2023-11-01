@@ -1,0 +1,3 @@
+Problem Statement : Not all ancient ciphers were so bad... The flag is not in standard format. nc mercury.picoctf.net 30568 playfair.py
+
+I downloaded the given playfair.py code and analysed it . I read up about the playfair cipher method
